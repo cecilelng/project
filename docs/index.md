@@ -1,4 +1,4 @@
-# Welcome to MkLorum
+# Welcome to Navya Documentation 
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
@@ -10,6 +10,13 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 * `mkdocs help` - Print this help message.
 
 ## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+## something
 
     mkdocs.yml    # The configuration file.
     docs/
